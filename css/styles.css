@@ -1,0 +1,32 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #515151;
+	color-wight:100;
+}
+.text-muted{
+	color:#5B5B5B;
+}
+.text-thin{
+	font-weight: 300;
+}
+
+.title-super{
+	font-size: 40px;
+}
+.title-logo{
+	margin-top: 20px;
+}
+.text-bold{
+	font-weight: 900;
+}
+.text-size{
+	font-size: 18px;
+}
+
+@media screen and (max-width:580px){
+
+.row{
+  background-color: blue;
+   }
+}
+
